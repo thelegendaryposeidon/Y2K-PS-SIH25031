@@ -59,7 +59,7 @@ export default async function DashboardPage() {
             </div>
           ))
         ) : (
-          <p>You haven't submitted any reports yet.</p>
+          <p>You haven&rsquo;t submitted any reports yet.</p>
         )}
       </div>
     </div>
